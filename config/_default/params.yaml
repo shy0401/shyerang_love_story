@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Hugo Blox Builder.'
+    description: '예랑이랑 하윤이의 사랑이야기'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -45,8 +45,8 @@ footer:
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: 'October 2, 2025'
+  time_format: '5:42 PM'
 
 # Site features
 features:
