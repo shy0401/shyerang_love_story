@@ -1,17 +1,10 @@
-# Configuration of Hugo
-# Guide: https://docs.hugoblox.com/tutorial/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
-title: "예랑이랑 하윤이의 사랑 이야기" # Website name
-baseURL: 'https://shy0401.github.io/shyerang_love_story/' # Website URL
+title: "예랑이랑 하윤이의 사랑 이야기"
+baseURL: "https://shy0401.github.io/shyerang_love_story/"
 
 ############################
 ## PAGE OPTIONS
 ############################
-
 cascade:
-  # Blog post options
   - _target:
       path: /blog/**
       kind: page
@@ -23,7 +16,6 @@ cascade:
     commentable: true
     show_related: true
     share: true
-    # Just use Breadcrumb for navigation on blog post pages?
     show_breadcrumb: false
     header:
       navbar:
@@ -32,16 +24,14 @@ cascade:
 ############################
 ## LANGUAGE
 ############################
-
-defaultContentLanguage: en
-hasCJKLanguage: false
+defaultContentLanguage: ko
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 ############################
 ## ADVANCED
 ############################
-
 build:
   writeStats: true
 enableGitInfo: false
@@ -53,9 +43,9 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  authors: '/author/:slug/'
-  tags: '/tag/:slug/'
-  categories: '/category/:slug/'
+  authors: "/author/:slug/"
+  tags: "/tag/:slug/"
+  categories: "/category/:slug/"
 disableAliases: true
 outputs:
   home: [HTML, RSS, headers, redirects, backlinks]
