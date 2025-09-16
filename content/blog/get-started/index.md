@@ -1,7 +1,7 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+title: 🎉 <2025년 8월 30일> 우리가 처음만난 날!>
+summary: 크리스쳔데이트 앱을 통해 알게된 우리가 처음 만난 날! 운명적인 만남이 이루어지는 날
+date: 2025-08-30
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
