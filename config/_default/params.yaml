@@ -10,12 +10,15 @@ appearance:
 
 # SEO
 marketing:
+# SEO
+marketing:
   seo:
     site_type: Person
     local_business_type: ''
     org_name: ''
     description: '예랑이랑 하윤이의 사랑이야기'
     twitter: 'GetResearchDev'
+    image: '/images/sum.png'   # ✅ 카카오톡/트위터 공유 썸네일
   analytics:
     google_analytics: ''
     baidu_tongji: ''
