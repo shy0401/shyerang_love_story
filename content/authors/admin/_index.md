@@ -1,47 +1,47 @@
 ---
 # Display name
-title: 吳健雄
+title: 신하윤
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Shin Ha Youn
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Shin
+last_name: Ha Youn
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: 댕댕이/토끼 좋아함
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🐇
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: 예랑이 남자친구입니다.
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: 전북대학교 컴퓨터인공지능학부 3학년
+    url: https://csai.jbnu.ac.kr/csai/index.do
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 저는 예랑이 남자친구입니다. 현재 전북대 컴공을 다니고 있고 멋진 경찰이 되어 예랑이를 지킬거에요!
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: 
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/white_shy1/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: 
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
