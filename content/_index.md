@@ -1,5 +1,5 @@
 ---
-title: 'Home'
+title: '예랑💑하윤'
 date: 2023-10-24
 type: landing
 sections:
